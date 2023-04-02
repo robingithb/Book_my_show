@@ -1,3 +1,4 @@
 # social_media
 
-first initial comment was homepage
+its a simple view of a socialmedia like instagram like apps.
+begginner level item
